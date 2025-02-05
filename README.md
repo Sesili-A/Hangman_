@@ -4,9 +4,15 @@ Welcome to **Hangman**, a fun and interactive word-guessing game built in Python
 
 ## 📌 Features
 ✅ Classic Hangman gameplay
+
+
 ✅ ASCII art-based hangman stages 🖼️
+
+
 ✅ Word selection from a predefined list
-✅ Tracks guessed letters and words
+
+
+✅ Tracks guessed letters and words \n
 ✅ Play again option
 
 ---
