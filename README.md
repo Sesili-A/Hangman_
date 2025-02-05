@@ -27,7 +27,7 @@ To run this game on your local machine:
 
 1. **Clone this repository**
    ```sh
-   git clone https://github.com/yourusername/hangman-game.git
+   git clone https://github.com/Sesili-A/Hangman_.git
    ```
 
 2. **Navigate to the project folder**
@@ -68,7 +68,7 @@ Please guess a letter or word:
 📂 hangman-game/
 │── hangman.py          # Main game script
 │── words.py            # List of words for the game
-│── README.md           # Project documentation (this file)
+│── README.md           # Project documentation 
 ```
 
 ---
