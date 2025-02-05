@@ -5,14 +5,12 @@ Welcome to **Hangman**, a fun and interactive word-guessing game built in Python
 ## 📌 Features
 ✅ Classic Hangman gameplay
 
-
 ✅ ASCII art-based hangman stages 🖼️
-
 
 ✅ Word selection from a predefined list
 
+✅ Tracks guessed letters and words 
 
-✅ Tracks guessed letters and words \n
 ✅ Play again option
 
 ---
@@ -72,8 +70,8 @@ Please guess a letter or word:
 ## 🛠️ Project Structure
 ```
 📂 hangman-game/
-│── hangman.py          # Main game script
-│── words.py            # List of words for the game
+│── hangman.py          #Main Script
+│── words.py            # List of words
 │── README.md           # Project documentation 
 ```
 
