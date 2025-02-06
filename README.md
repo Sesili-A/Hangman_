@@ -70,7 +70,7 @@ Please guess a letter or word:
 ## 🛠️ Project Structure
 ```
 📂 hangman-game/
-│── hangman.py          #Main Script
+│── hangman.py          # Main Script
 │── words.py            # List of words
 │── README.md           # Project documentation 
 ```
